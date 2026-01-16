@@ -1,0 +1,29 @@
+/* ESTILO GENERAL */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* TITULOS */
+h1, h2, h3 {
+    font-weight: 600;
+}
+
+/* TARJETAS */
+.card {
+    border-radius: 10px;
+}
+
+/* BOTONES */
+.btn {
+    border-radius: 8px;
+}
+
+/* TABLA DE MOVIMIENTOS */
+table {
+    background-color: white;
+}
+
+/* LINKS */
+a {
+    text-decoration: none;
+}
